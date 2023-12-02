@@ -1,5 +1,7 @@
 # Potato-Leaf-Disease-Detection-and-Classification-using-TensorFlow
 
+Dataset Link - https://drive.google.com/drive/folders/1Ufm7mFXcz22-9JOsqNgHvR0SxMXjhKMi?usp=sharing
+
 ## ABSTRACT
 The "Potato Leaf Disease Detection" project, employing TensorFlow, represents a pioneering effort in the realm of deep learning, aimed at combating both early and late blight diseases in potato cultivation. This innovative model offers the promise of swift and accurate disease recognition, facilitating timely interventions, thereby reducing crop losses and bolstering the sustainability of potato farming.
 Potatoes, a fundamental global staple, occupy a pivotal role in food production. Nevertheless, the menace of blight diseases, attributed to fungi such as Phytophthora infestans and Alternaria Solani, poses a substantial threat to potato yields and food security.
